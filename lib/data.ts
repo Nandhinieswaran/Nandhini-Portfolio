@@ -115,7 +115,7 @@ export const categorizedProjectsData = {
       title: "Personal PA – AI Scheduling Agent",
       //description:"AI-driven task scheduler that automates daily planning, prioritization, and rescheduling based on activity insights.",
       //tools: "Python, Xamarin.AI, NLP, FastAPI, PostgreSQL",
-      imageUrl: "robo.png",
+      imageUrl: "robo.jpg",
       githubUrl: "https://github.com/yourusername/personal-ta",
     },
     {
@@ -173,14 +173,6 @@ export const categorizedProjectsData = {
         "https://www.linkedin.com/posts/nandhini25_neuralnetworks-matrixmath-datarepresentation-activity-7193801616997638144-0_Ml/",
     },
     {
-      title: "Matrix Types & Their Applications in AI",
-      //description:"A detailed breakdown of different matrix types (Diagonal, Scalar, Identity, Symmetric, etc.) and their role in AI and computing.",
-      //tools: "Linear Algebra, Machine Learning, PCA, SVD, Data Transformation",
-      imageUrl: "matrixs.jfif",
-      linkedinUrl:
-        "https://www.linkedin.com/posts/nandhini25_matrices-and-their-significant-all-role-activity-7203216869506310145-pIIA/",
-    },
-    {
       title: "Pi (π) – Beyond 3.14",
       //description:"Exploring how Pi was derived with increasing accuracy using Archimedes' method of inscribed polygons.",
       //tools:"Mathematical Proofs, Geometric Analysis, Archimedean Approximation",
@@ -188,6 +180,15 @@ export const categorizedProjectsData = {
       linkedinUrl:
         "https://www.linkedin.com/in/nandhini25/recent-activity/all/",
     },
+    {
+      title: "Matrix Types & Their Applications in AI",
+      //description:"A detailed breakdown of different matrix types (Diagonal, Scalar, Identity, Symmetric, etc.) and their role in AI and computing.",
+      //tools: "Linear Algebra, Machine Learning, PCA, SVD, Data Transformation",
+      imageUrl: "matrixs.jfif",
+      linkedinUrl:
+        "https://www.linkedin.com/posts/nandhini25_matrices-and-their-significant-all-role-activity-7203216869506310145-pIIA/",
+    },
+
     {
       title: "Semantic Search – The Mathematics Behind AI Search",
       //description:"Explained how semantic search works using vector space models (VSM), cosine similarity, and latent semantic analysis (LSA).",

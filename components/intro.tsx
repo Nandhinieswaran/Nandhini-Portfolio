@@ -31,7 +31,7 @@ export default function Intro() {
           >
             <div className="mb-8">
               <Image
-                src="/profiles.png"
+                src="/profile.png"
                 alt="Profile"
                 width={300}
                 height={300}
