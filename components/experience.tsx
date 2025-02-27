@@ -24,7 +24,10 @@ export default function Experience() {
   };
 
   // Function to get the appropriate icon for each item
-  const getIcon = (type) => {
+  //const getIcon = (type) =>
+  //const getIcon = (type: string | undefined) => {
+  const getIcon = (type: string = "experience") => {
+    ///newly added commits
     switch (type) {
       case "education":
         return <LuGraduationCap className="text-white" size={24} />;
