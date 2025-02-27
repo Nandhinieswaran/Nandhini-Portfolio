@@ -135,7 +135,7 @@ export const categorizedProjectsData: Record<string, Project[]> = {
     },
     {
       title: "Thirukkural Hugging Face Model",
-      imageUrl: "Thirukkural image.jfif",
+      imageUrl: "Thirukkural image.png",
       githubUrl: "https://github.com/yourusername/thirukkural-nlp",
     },
   ],
@@ -143,19 +143,19 @@ export const categorizedProjectsData: Record<string, Project[]> = {
   "Power BI": [
     {
       title: "Zomato Dashboard – Data Analysis",
-      imageUrl: "zomato.jfif",
+      imageUrl: "zomato.png",
       linkedinUrl:
         "https://www.linkedin.com/posts/nandhini25_revolutionizing-experiences-zomato-dashboard-activity-7105908147671744513-cI3d/",
     },
     {
       title: "IPL 2023 Dashboard – Cricket Analytics",
-      imageUrl: "dashboard.jfif",
+      imageUrl: "dashboard.png",
       linkedinUrl:
         "https://www.linkedin.com/posts/nandhini25_ipl-dashboard-2023-activity-7104346535156482048-JoD2/",
     },
     {
       title: "Thirukkural Dataset – Data Analytics",
-      imageUrl: "tamil.jfif",
+      imageUrl: "tamil.png",
       linkedinUrl:
         "https://www.linkedin.com/posts/nandhini25_unveiling-insights-real-time-telecom-dataset-activity-7099954741106921473-gaQG/",
     },
@@ -164,39 +164,39 @@ export const categorizedProjectsData: Record<string, Project[]> = {
   SQL: [
     {
       title: "Database Analytics",
-      imageUrl: "sql DB.jfif",
+      imageUrl: "sql DB.png",
       githubUrl: "#",
     },
   ],
   Math: [
     {
       title: "How Neural Networks Work with Matrices",
-      imageUrl: "nn.jfif",
+      imageUrl: "nn.png",
       linkedinUrl:
         "https://www.linkedin.com/posts/nandhini25_neuralnetworks-matrixmath-datarepresentation-activity-7193801616997638144-0_Ml/",
     },
     {
       title: "Pi (π) – Beyond 3.14",
-      imageUrl: "pi.jfif",
+      imageUrl: "pi.png",
       linkedinUrl:
         "https://www.linkedin.com/in/nandhini25/recent-activity/all/",
     },
     {
       title: "Matrix Types & Their Applications in AI",
-      imageUrl: "matrixs.jfif",
+      imageUrl: "matrixs.png",
       linkedinUrl:
         "https://www.linkedin.com/posts/nandhini25_matrices-and-their-significant-all-role-activity-7203216869506310145-pIIA/",
     },
 
     {
       title: "Semantic Search – The Mathematics Behind AI Search",
-      imageUrl: "search.jfif",
+      imageUrl: "search.png",
       linkedinUrl:
         "https://www.linkedin.com/posts/nandhini25_semanticsearch-ai-searchtechnology-activity-7188017228770873344-fi1t/",
     },
     {
       title: "Srinivasa Ramanujan – The Genius Mathematician",
-      imageUrl: "ramanujam infinite.jfif",
+      imageUrl: "ramanujam infinite.png",
       linkedinUrl:
         "https://www.linkedin.com/posts/nandhini25_ramanujan-mathematics-infinitepossibilities-activity-7189481800308604929-RUTf/",
     },
