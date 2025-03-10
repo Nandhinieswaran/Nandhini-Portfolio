@@ -131,7 +131,12 @@ export const categorizedProjectsData: Record<string, Project[]> = {
     {
       title: "Personal PA – AI Scheduling Agent",
       imageUrl: "robo.jpg",
-      githubUrl: "https://github.com/yourusername/personal-ta",
+      githubUrl: "https://github.com/NandhiniE-Tech/My_Personal_Agent",
+    },
+    {
+      title: "Voices of Revolution – Chat with Legends",
+      imageUrl: "legend-chat.png", // Replace with your project's image file name or URL
+      githubUrl: "https://github.com/NandhiniE-Tech/Celebrate-Women-",
     },
     {
       title: "Thirukkural Hugging Face Model",
