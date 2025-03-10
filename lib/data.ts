@@ -139,6 +139,12 @@ export const categorizedProjectsData: Record<string, Project[]> = {
       githubUrl: "https://github.com/NandhiniE-Tech/Celebrate-Women-",
     },
     {
+      title: "Get speak with poeters – Chat Tamil wisdom",
+      imageUrl: "tamil-bharathi.jpeg", // Replace with your project's image file name or URL
+      githubUrl:
+        "https://github.com/NandhiniE-Tech/TamilBHarathibot/blob/main/main.py",
+    },
+    {
       title: "Thirukkural Hugging Face Model",
       imageUrl: "Thirukkural image.png",
       githubUrl: "https://github.com/yourusername/thirukkural-nlp",
