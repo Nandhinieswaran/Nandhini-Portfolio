@@ -145,9 +145,16 @@ export const categorizedProjectsData: Record<string, Project[]> = {
         "https://github.com/NandhiniE-Tech/TamilBHarathibot/blob/main/main.py",
     },
     {
+      title: "Bharathiyar dataset - புதிய ஆத்திசூடி",
+      imageUrl: "BHarathiyar_huggingface.PNG", // Replace with your project's image file name or URL
+      githubUrl:
+        "https://huggingface.co/datasets/Nandhini-Eswaran/puthiya-aathichudi-dataset",
+    },
+    {
       title: "Thirukkural Hugging Face Model",
       imageUrl: "Thirukkural image.png",
-      githubUrl: "https://github.com/yourusername/thirukkural-nlp",
+      githubUrl:
+        "https://huggingface.co/datasets/Nandhini-Eswaran/thirukural-dataset",
     },
   ],
 
