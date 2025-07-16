@@ -54,10 +54,19 @@ export const links = [
 
 export const experiencesData: ItemData[] = [
   {
+    title: "AI Engineer Intern",
+    location: "Privacera - AI Governance",
+    description:
+      "Building support assistant bot that retrieves data from multiple knowledge sources using RAG & Agents, kickstarted new chapter exploring data governance and access control with Apache Ranger.",
+    icon: FaChartBar,
+    date: "Present",
+    type: "experience",
+  },
+  {
     title: "Associate Data Scientist",
     location: "Zgrow solutions pvt ltd",
     description:
-      "Specialized in fine-tuning AI-driven assistants with agent-based workflows, optimizing prompt engineering, data retrieval, and model evaluation—boosting response accuracy by 76% and enhancing user engagement.",
+      "Specialized in RAG, fine-tuning AI-driven assistants with agent-based workflows, optimizing prompt engineering, data retrieval, and model evaluation—boosting response accuracy by 76% and enhancing user engagement.",
     icon: FaChartBar,
     date: "Nov 2023 - Dec 2024",
     type: "experience",
@@ -218,6 +227,12 @@ export const categorizedProjectsData: Record<string, Project[]> = {
       linkedinUrl:
         "https://www.linkedin.com/posts/nandhini25_ramanujan-mathematics-infinitepossibilities-activity-7189481800308604929-RUTf/",
     },
+    {
+      title: "Integer Partition — From Ramanujan to DSA",
+      imageUrl: "partition.png",
+      linkedinUrl:
+        "https://www.linkedin.com/posts/nandhini25_partition-activity-7343351380864094208-8dcq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXankMBxqjJAzHOeGkrhxDtR_kI0336FdA",
+    },
   ],
 };
 
@@ -225,6 +240,10 @@ export const skillsData = [
   "Python",
   "Machine Learning",
   "Deep Learning",
+  "RAG",
+  "Agentic AI",
+  "Deployment",
+  "Apache",
   "TensorFlow",
   "PyTorch",
   "SQL",
@@ -237,4 +256,5 @@ export const skillsData = [
   "Linear Algebra",
   "Calculus",
   "FastAPI",
+  "DSA",
 ] as const;
