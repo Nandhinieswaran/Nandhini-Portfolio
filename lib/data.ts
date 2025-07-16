@@ -54,8 +54,8 @@ export const links = [
 
 export const experiencesData: ItemData[] = [
   {
-    title: "AI Engineer",
-    location: "Privacera AI Governance",
+    title: "AI Engineer Intern",
+    location: "Privacera - AI Governance",
     description:
       "Building support assistant bot that retrieves data from multiple knowledge sources using RAG & Agents, kickstarted new chapter exploring data governance and access control with Apache Ranger.",
     icon: FaChartBar,
